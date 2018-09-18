@@ -3,5 +3,5 @@ Simple Client-Server Chat System in Java(Socket Programming)
 
 Run both the Files at a time.
 
-Open Firest the Server file or Server mode.
+Open First the Server file or Server mode.
 
